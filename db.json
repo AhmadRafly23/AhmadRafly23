@@ -3,7 +3,13 @@
       {
         "id": 1,
         "image": "https://i.ibb.co/5G4cmd7/aloevera.jpg",
-        "name": "Aloe Vera"
+        "name": "Aloe Vera",
+        "species": "A. vera",
+        "family": "Asphodelaceae",
+        "order": "Asparagales",
+        "kingdom": "Plantae",
+        "genus": "Aloe",
+        "desc": "Lidah buaya adalah spesies tumbuhan dengan daun berdaging tebal dari genus Aloe. Tumbuhan ini bersifat menahun, berasal dari Jazirah Arab, dan tanaman liarnya telah menyebar ke kawasan beriklim tropis, semi-tropis, dan kering di berbagai belahan dunia"
       },
       {
         "id": 2,
