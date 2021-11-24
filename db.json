@@ -19,6 +19,7 @@
         "family": "Cactaceae; Juss.",
         "order": "Caryophyllales",
         "kingdom": " Plantae",
+        "genus": "-",
         "desc": "Kaktus dapat tumbuh pada waktu yang lama tanpa air. Kaktus biasa ditemukan di daerah-daerah yang kering. Kata jamak untuk kaktus adalah kakti. Kaktus memiliki akar yang panjang untuk mencari air dan memperlebar penyerapan air dalam tanah. Air yang diserap kaktus disimpan dalam ruang di batangnya."
       },
       {
@@ -29,6 +30,7 @@
         "family": "Liliales",
         "order": "Liliaceae",
         "kingdom": "Plantae",
+        "genus": "-",
         "desc": "Bakung (lily) merupakan bagian dari genus Lilium. Nama tanaman ini dalam bahasa Inggris adalah lily. Ada sekitar 110 suku dalam keluarga bakung."
       },
       {
@@ -39,12 +41,14 @@
         "family": "Proteales",
         "order": "Nelumbonaceae",
         "kingdom": "Plantae",
+        "genus": "-",
         "desc": "Seroja atau lotus adalah spesies tumbuhan air tahunan dari genus Nelumbo yang berasal dari India. Di Indonesia tanaman ini sering kali disebut teratai walaupun sebenarnya keduanya tidak berkerabat. Seroja memiliki tangkai bunga tegak dan bunganya tidak mengapung di permukaan air, sebagaimana pada teratai."
       },
       {
         "id": 5,
         "image": "https://i.ibb.co/Q9S6c4D/monstera.jpg",
         "name": "Monstera",
+        "species": "-",
         "family": "Araceae",
         "order": "Alismatales",
         "kingdom": "Plantae",
