@@ -9,27 +9,47 @@
         "order": "Asparagales",
         "kingdom": "Plantae",
         "genus": "Aloe",
-        "desc": "Lidah buaya adalah spesies tumbuhan dengan daun berdaging tebal dari genus Aloe. Tumbuhan ini bersifat menahun, berasal dari Jazirah Arab, dan tanaman liarnya telah menyebar ke kawasan beriklim tropis, semi-tropis, dan kering di berbagai belahan dunia"
+        "desc": "Lidah buaya adalah spesies tumbuhan dengan daun berdaging tebal dari genus Aloe. Tumbuhan ini bersifat menahun, berasal dari Jazirah Arab, dan tanaman liarnya telah menyebar ke kawasan beriklim tropis, semi-tropis, dan kering di berbagai belahan dunia."
       },
       {
         "id": 2,
         "image": "https://i.ibb.co/MMG2WHZ/kaktus.jpg",
-        "name": "Kaktus"
+        "name": "Kaktus",
+        "species": "Cactaceae",
+        "family": "Cactaceae; Juss.",
+        "order": "Caryophyllales",
+        "kingdom": " Plantae",
+        "desc": "Kaktus dapat tumbuh pada waktu yang lama tanpa air. Kaktus biasa ditemukan di daerah-daerah yang kering. Kata jamak untuk kaktus adalah kakti. Kaktus memiliki akar yang panjang untuk mencari air dan memperlebar penyerapan air dalam tanah. Air yang diserap kaktus disimpan dalam ruang di batangnya."
       },
       {
         "id": 3,
         "image": "https://i.ibb.co/t2h8TFZ/lily.jpg",
-        "name": "Lily"
+        "name": "Lily",
+        "species": "Lilium",
+        "family": "Liliales",
+        "order": "Liliaceae",
+        "kingdom": "Plantae",
+        "desc": "Bakung (lily) merupakan bagian dari genus Lilium. Nama tanaman ini dalam bahasa Inggris adalah lily. Ada sekitar 110 suku dalam keluarga bakung."
       },
       {
         "id": 4,
         "image": "https://i.ibb.co/r6xCYgV/lotus.jpg",
-        "name": "Lotus"
+        "name": "Lotus",
+        "species": "Nelumbo nucifera",
+        "family": "Proteales",
+        "order": "Nelumbonaceae",
+        "kingdom": "Plantae",
+        "desc": "Seroja atau lotus adalah spesies tumbuhan air tahunan dari genus Nelumbo yang berasal dari India. Di Indonesia tanaman ini sering kali disebut teratai walaupun sebenarnya keduanya tidak berkerabat. Seroja memiliki tangkai bunga tegak dan bunganya tidak mengapung di permukaan air, sebagaimana pada teratai."
       },
       {
         "id": 5,
         "image": "https://i.ibb.co/Q9S6c4D/monstera.jpg",
-        "name": "Monstera"
+        "name": "Monstera",
+        "family": "Araceae",
+        "order": "Alismatales",
+        "kingdom": "Plantae",
+        "genus": "Monstera; Adans.",
+        "desc": "Monstera is a genus of 45 species of flowering plants in the arum family, Araceae, native to tropical regions of the Americas. The genus is named from the Latin word for 'monstrous' or 'abnormal', and refers to the unusual leaves with natural holes that members of the genus have."
       }
     ]
   }
